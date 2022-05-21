@@ -12,4 +12,4 @@
 
 ## Tercera parte:
 
-- En desarrollo...
+- Usé html y un poco de ccs para cuadrar párrafos y div

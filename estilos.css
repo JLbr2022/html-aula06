@@ -32,6 +32,12 @@
   Color: rgb(136, 100, 1);
 }
 
+#p-resena {
+  margin-left: 50px;
+  margin-right:90px;
+  text-align: justify;
+
+}
 #div-footer {
 width: 1730px;
 height: 20px;
