@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#div-parte2 {
+  width: 1730px;
+  height: 350px;
+  background-color: hwb(40 1% 59%);
+}
+
+#divTituloFlora {
+  padding-left: 2.5%;
+  position: absolute;
+  top: 825px;
+  left: 160px;
+  Color: rgb(255, 0, 0);
+}
+
+#divTituloFauna {
+  padding-left: 2.5%;
+  position: absolute;
+  top: 825px;
+  left: 640px;
+  Color: rgb(255, 0, 0);
+}
+
+#columna1 {
+  padding-left: 2.5%;
+  position: absolute;
+  top: 850px;
+  left: 0px;
+  width: 400px;
+  margin-top: 10px;
+  Color: rgb(255, 244, 189);
+}
+
+#columna2 {
+  padding-left: 3%;
+  position: absolute;
+  top: 850px;
+  left: 450px;
+  width: 400px;
+  margin-top: 10px;
+  color: rgb(255, 244, 189);
+}
+
+#columna3 {
+  padding-left: 2.5%;
+  position: absolute;
+  top: 950px;
+  left: 0px;
+  width: 400px;
+  margin-top: 10px;
+  color: rgb(255, 244, 189);
+}
+
+#columna4 {
+  padding-left: 3%;
+  position: absolute;
+  top: 950px;
+  left: 450px;
+  width: 400px;
+  margin-top: 10px;
+  color: rgb(255, 244, 189);
+}
+
+#columna5 {
+  padding-left: 2.5%;
+  position: absolute;
+  top: 1050px;
+  left: 0px;
+  width: 400px;
+  margin-top: 10px;
+  color: rgb(255, 244, 189);
+}
+
+#columna6 {
+  padding-left: 3%;
+  position: absolute;
+  top: 1050px;
+  left: 450px;
+  width: 400px;
+  margin-top: 10px;
+    color: rgb(255, 244, 189);
+}
+
+#columna7 {
+  position: absolute;
+  top: 850px;
+  left: 1040px;
+  width: 506px;
+  margin-top: 10px;
+  text-align: center;
+  color: rgb(255, 244, 189);
+  /* background-color: #988400; */
+}
