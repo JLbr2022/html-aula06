@@ -25,6 +25,21 @@
   Color: rgb(255, 0, 0);
 }
 
+#div-info {
+  width: 1730px;
+  height: 350px;
+  background-color: hwb(39 0% 81%);
+  Color: rgb(136, 100, 1);
+}
+
+#div-footer {
+width: 1730px;
+height: 20px;
+text-align: center;
+background-color: hwb(39 0% 87%);
+Color: rgb(114, 105, 72);
+}
+
 #columna1 {
   padding-left: 2.5%;
   position: absolute;
